@@ -1,6 +1,6 @@
 # Anil Gangapersaud
 
-I am a passionate, detail-oriented full-stack software engineer with experience developing web applications and backend microservices, constantly learning new technologies in an effort to improve my skillset and provide greater value as an engineer. 
+I am a passionate, detail-oriented full-stack software engineer with experience developing web and cloud applications, constantly learning new technologies in an effort to improve my skillset and provide greater value as an engineer. 
 
 ## Education
 
